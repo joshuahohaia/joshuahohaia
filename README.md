@@ -8,6 +8,11 @@
   />
 </a>
 
+<p>
+  <a href="https://joshuahohaia.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/joshuahohaia/">LinkedIn</a>
+</p>
+
 <img
   src="https://hit.yhype.me/github/profile?account_id=58153260"
   style="display:block; width:0; height:0; margin:0; padding:0; border:0;"
